@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/127205316/228544035-231fdda0-b014-4d09-97b0-9d48b5687e36.png)
+[![Build Status](https://dev.azure.com/SWeber0069/UnionStahlApp/_apis/build/status/uspwo.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/SWeber0069/UnionStahlApp/_build/latest?definitionId=2&branchName=master)
 
 
 # Sample ASP.NET Core application for Azure Pipelines docs
